@@ -7,3 +7,6 @@ cd nom du porjet qu'on trouve sur l'adresse URL
 git add .
 git commit -m "message"
 git push
+
+# Commande pour pull :
+git pull (on va avoir les changements qu'on a fait sur Github sur Git)
