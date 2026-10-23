@@ -1,0 +1,9 @@
+# Cloner un repository :
+git clone adresse URL du repository qu'on a sur github
+cd nom du porjet qu'on trouve sur l'adresse URL
+
+
+# Les 3 commandes de push : 
+git add .
+git commit -m "message"
+git push
