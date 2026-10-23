@@ -10,3 +10,9 @@ git push
 
 # Commande pour pull :
 git pull (on va avoir les changements qu'on a fait sur Github sur Git)
+
+# Commande pour créer nouvelle branche :
+git branch nom nouvelle branche
+
+# Commande pour aller sur cette branche :
+git switch nom nouvelle branche
